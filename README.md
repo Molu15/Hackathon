@@ -6,6 +6,6 @@ Welcome to the Personal Webpage project!
 This project focuses on building a personal webpage.
 
 ## Project Structure
-- **Hackathon/**: This directory contains the source code and assets for the personal webpage.
+This directory contains the source code and assets for the personal webpage.
 
 
